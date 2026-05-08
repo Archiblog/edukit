@@ -2,3 +2,7 @@
 
 
 ![Fantasia](png/item_27824.png)
+* Edukit Fantasia
+
+This repository records the ongoing production of research facsimiles, interpretive SVG drawings, and methodological reflections.
+
